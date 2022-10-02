@@ -15,6 +15,6 @@ Then run the Python file and (depending on your computer) wait 1-2 minutes for t
 > A: We have some work to do...
 -------------
 
-> "Does it work?" 
+> Q: "Does it work?" 
 >
-> # Yes
+> # A: Yes
