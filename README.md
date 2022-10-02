@@ -5,16 +5,17 @@ The main python project file contains everything. To produce a midi file, insert
 Then run the Python file and (depending on your computer) wait 1-2 minutes for the midi file to appear.
 
 # FAQ
-> Q: "Does it run well?" 
->
-> A: We are physicists first and foremost, programmers secondly, and musicians last.
--------------
 
-> Q: "Is it efficient?" 
+> Q: Is it efficient? 
 >
 > A: We have some work to do...
 -------------
 
-> Q: "Does it work?" 
+> Q: Does it work well? 
+>
+> A: We are physicists first and foremost, programmers secondly, and musicians last...
+-------------
+
+> Q: "Does it work at all?" 
 >
 > # A: Yes
