@@ -7,7 +7,7 @@ Then run the Python file and (depending on your computer) wait 1-2 minutes for t
 # FAQ
 > Q: "Does it run well?" 
 >
-> A: We are Physicists first and foremost, and programmers secondly...
+> A: We are Physicists first and foremost, and programmers secondly. We are not musicians.  
 -------------
 
 > Q: "Is it efficient?" 
